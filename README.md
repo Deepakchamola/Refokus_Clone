@@ -18,7 +18,7 @@ Welcome to the Refokus website clone project! This project aims to replicate the
 <img src="https://github.com/Deepakchamola/Refokus_Clone/blob/f1edf5afe83560820642fb0ea4ea00fe69b9841b/Refokus_ss.png" width="850"/>
 
 ## Live website
-Watch live website of refokus-clone: [View Live]()
+Watch live website of refokus-clone: [View Live](https://refokus-clone-topaz.vercel.app/)
 
 ## Acknowledgements
 - Locomotive Scroll - For providing smooth scrolling effects.
